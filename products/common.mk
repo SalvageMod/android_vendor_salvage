@@ -21,8 +21,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.com.android.dataroaming=false
 
 # Salvage-Mod specific product packages
-#PRODUCT_PACKAGES += \
-#    AndroidTerm \
+PRODUCT_PACKAGES += \
+    salvagewallpapers \
 
 # Extra tools in Salvage-Mod
 #PRODUCT_PACKAGES += \

@@ -23,6 +23,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Salvage-Mod specific product packages
 PRODUCT_PACKAGES += \
     salvagewallpapers \
+    SalvageParts \
 
 # Extra tools in Salvage-Mod
 #PRODUCT_PACKAGES += \

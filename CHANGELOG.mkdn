@@ -8,7 +8,7 @@ Developers:
 * Supersonic (EVO): Lithid, barnacles10, echoside
 
 CHANGELOG
--
+------------
 v1.1
 
 * Enabled QCOM for GPS
@@ -17,3 +17,4 @@ v1.1
 * Added overscroll options to SalvageParts (bounce, glow)
 * Add font size options in MMS (sender, subject and message font size)
 * Changed battery icon read (now reads in 5% increments)  --thanks Daniel Sandler for the images
+* New SalvageMod boot animation

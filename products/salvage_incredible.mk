@@ -27,3 +27,9 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/salvage/overlay/inc
 
 # Broadcom FM radio
 #$(call inherit-product, vendor/salvage/products/bcm_fm_radio.mk)
+
+#
+# Copy Incredible specific prebuilt files
+#
+PRODUCT_COPY_FILES +=  \
+    vendor/salvage/prebuilt/hdpi/media/bootanimation.zip:system/media/bootanimation.zip

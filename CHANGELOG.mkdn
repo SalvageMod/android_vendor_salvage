@@ -11,8 +11,8 @@ CHANGELOG
 ---------
 
 v1.1
--Enabled QCOM for GPS
--Added SalvageParts app through settings
--Added overscroll options to SalvageParts (bounce, glow)
--Add font size options in MMS (sender, subject and message font size)
+* Enabled QCOM for GPS
+* Added SalvageParts app through settings
+* Added overscroll options to SalvageParts (bounce, glow)
+* Add font size options in MMS (sender, subject and message font size)
 

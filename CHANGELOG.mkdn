@@ -18,3 +18,5 @@ v1.1
 * Add font size options in MMS (sender, subject and message font size)
 * Changed battery icon read (now reads in 5% increments)  --thanks Daniel Sandler for the images
 * New SalvageMod boot animation
+* Adding mms option for back to all conversations list
+* Better scaling of larger images like facebook sync images - Jef Cliver 

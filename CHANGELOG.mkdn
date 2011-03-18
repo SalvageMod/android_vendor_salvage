@@ -11,6 +11,7 @@ CHANGELOG
 ---------
 
 v1.1
+-
 * Enabled QCOM for GPS
 * Added SalvageParts app through settings
 * Added overscroll options to SalvageParts (bounce, glow)

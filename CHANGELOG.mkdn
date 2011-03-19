@@ -20,3 +20,4 @@ v1.1
 * New SalvageMod boot animation
 * Adding mms option for back to all conversations list
 * Better scaling of larger images like facebook sync images - Jef Cliver 
+* Updated kernel and modules

@@ -16,9 +16,10 @@ v1.1
 * Added changelog view in SalvageParts app
 * Added overscroll options to SalvageParts (bounce, glow)
 * Added CPU Freq to SalvageParts
-* Add font size options in MMS (sender, subject and message font size)
+* Added mms option for back to all conversations list
+* Added font size options in MMS (sender, subject and message font size)
 * Changed battery icon read (now reads in 5% increments)  --thanks Daniel Sandler for the images
 * New SalvageMod boot animation
-* Adding mms option for back to all conversations list
+* Fixed certain apps not showing up in the market
 * Better scaling of larger images like facebook sync images - Jef Cliver 
 * Updated kernel and modules

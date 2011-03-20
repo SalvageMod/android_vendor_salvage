@@ -26,3 +26,4 @@ v1.1
 * Updated Google applications add-on - updates apps and fixes market links
 * Added galaxy style notification widgets - CyanogenMod
 * Allow 3rd party applications install by default
+* Build with 2D AOSP gallery instead of 3D for performance

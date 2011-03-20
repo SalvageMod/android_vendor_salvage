@@ -24,3 +24,5 @@ v1.1
 * Better scaling of larger images like facebook sync images - Jef Cliver 
 * Updated kernel and modules
 * Updated Google applications add-on - updates apps and fixes market links
+* Added galaxy style notification widgets - CyanogenMod
+* Allow 3rd party applications install by default

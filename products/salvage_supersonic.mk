@@ -23,7 +23,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += BUILD_ID=FRF91 BUILD_DISPLAY_ID=Salvage-Mod-v1.1
 PRODUCT_PACKAGE_OVERLAYS += vendor/salvage/overlay/supersonic
 
 # Add the Torch app
-#PRODUCT_PACKAGES += Torch
+PRODUCT_PACKAGES += Torch
 
 # Broadcom FM radio
 #$(call inherit-product, vendor/salvage/products/bcm_fm_radio.mk)

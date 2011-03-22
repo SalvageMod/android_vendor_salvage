@@ -11,13 +11,14 @@ CHANGELOG
 ------------
 v1.1
 
+* Updated necessary files to Android Version 2.3.3
 * Enabled QCOM for GPS
 * Added SalvageParts app through settings
 * Added changelog view in SalvageParts app
 * Added overscroll options to SalvageParts (bounce, glow)
 * Added CPU Freq to SalvageParts
 * Added mms option for back to all conversations list
-* Added font size options in MMS (sender, subject and message font size)
+* Added font size options in mms (sender, subject and message font size)
 * Changed battery icon read (now reads in 5% increments)  --thanks Daniel Sandler for the images
 * New SalvageMod boot animation
 * Fixed certain apps not showing up in the market

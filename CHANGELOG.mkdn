@@ -10,9 +10,11 @@ Developers:
 CHANGELOG
 ------------
 v1.2
-* Fixed boot animation. Plays till system loads now.
-* Customized pro tips for Salvage
 
+* Fixed boot animation. Now plays until system loads.
+* Customized Protips for Salvage
+
+------------
 v1.1
 
 * Updated necessary files to Android Version 2.3.3

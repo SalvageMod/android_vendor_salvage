@@ -14,7 +14,7 @@ v1.2
 * Fixed boot animation. Now plays until system loads.
 * Customized Protips for Salvage
 * Custom VM heap added to Salvage Parts --cyanogen
-* Added LCD Changer to SalvageParts
+* Added LCD Density Changer to SalvageParts
 
 ------------
 v1.1

@@ -17,6 +17,8 @@ v1.2
 * Added Swipe left and right for Gallery
 * Added Launcher2 quick app uninstall
 * Update backend build properties
+* New settings app, combines settings, quick app settings, phone information and SalvageParts in a tabbed UI.
+* Longpress notification widgets to open there respective settings - radadev
 
 ------------
 v1.1

@@ -20,6 +20,7 @@ v1.2
 * New settings app, combines settings, quick app settings, phone information and SalvageParts in a tabbed UI.
 * Longpress notification widgets to open there respective settings - radadev
 * Allow clearing of Voicemail notifications.
+* Add an option to disable stock voicemail notifications.
 
 ------------
 v1.1

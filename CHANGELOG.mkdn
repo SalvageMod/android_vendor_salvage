@@ -21,6 +21,7 @@ v1.2
 * Longpress notification widgets to open there respective settings - radadev
 * Allow clearing of Voicemail notifications.
 * Add an option to disable stock voicemail notifications.
+* Add an option to enable or disable the screen On/Off animation
 
 ------------
 v1.1

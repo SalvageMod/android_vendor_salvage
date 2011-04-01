@@ -23,6 +23,9 @@ v1.2
 * Allow clearing of Voicemail notifications.
 * Add an option to disable stock voicemail notifications.
 * Add an option to enable or disable the screen On/Off animation
+* Disable Launcher2 from drawing caches for all screens on screen scroll
+* Removed all launcher2 wallpapers, now just Salvage Wallpapers.
+* Decrease padding in upper and lower default launcher workspaces
 
 ------------
 v1.1

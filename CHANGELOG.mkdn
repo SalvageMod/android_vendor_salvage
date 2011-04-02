@@ -27,6 +27,8 @@ v1.2
 * Removed all launcher2 wallpapers, now just Salvage Wallpapers
 * Refresh Salvage Wallpapers with some new wallpapers + a few from Launcher2
 * Decrease padding in upper and lower default launcher workspaces
+* Disable lock on launcher portrait mode
+* Launcher: Add new interpolator from AnderWeb for elastic desktop 
 
 ------------
 v1.1

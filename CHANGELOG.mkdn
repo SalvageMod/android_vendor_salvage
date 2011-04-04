@@ -12,6 +12,7 @@ CHANGELOG
 v1.2
 
 * Fixed boot animation. Now plays until system loads.
+* Introduce Frebase kernel to Salvage-Mod. -thanks to cyanogenmod for the base
 * Customized Protips for Salvage
 * Custom VM heap added to Salvage Parts --cyanogen
 * Added Swipe left and right for Gallery

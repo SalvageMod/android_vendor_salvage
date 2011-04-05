@@ -30,6 +30,7 @@ v1.2
 * Decrease padding in upper and lower default launcher workspaces
 * Disable lock on launcher portrait mode
 * Launcher: Add new interpolator from AnderWeb for elastic desktop 
+* Add Terminal Emulator to Parts
 
 ------------
 v1.1

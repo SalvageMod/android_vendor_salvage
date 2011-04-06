@@ -31,6 +31,7 @@ v1.2
 * Disable lock on launcher portrait mode
 * Launcher: Add new interpolator from AnderWeb for elastic desktop 
 * Add Terminal Emulator to Parts
+* Launcher: Hide icon labels option
 
 ------------
 v1.1

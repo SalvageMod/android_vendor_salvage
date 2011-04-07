@@ -32,6 +32,7 @@ v1.2
 * Launcher: Add new interpolator from AnderWeb for elastic desktop 
 * Add Terminal Emulator to Parts
 * Launcher: Hide icon labels option
+* Launcher: Add fullscreen option
 
 ------------
 v1.1

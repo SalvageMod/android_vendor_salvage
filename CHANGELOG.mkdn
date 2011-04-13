@@ -17,7 +17,6 @@ v1.2
 * Custom VM heap added to Salvage Parts --cyanogen
 * Added Swipe left and right for Gallery
 * Added Launcher2 quick app uninstall
-* Keep Launcher2 in memory option
 * Update backend build properties
 * New settings app, combines settings, quick app settings, phone information and SalvageParts in a tabbed UI.
 * Longpress notification widgets to open there respective settings - radadev
@@ -33,6 +32,7 @@ v1.2
 * Add Terminal Emulator to Parts
 * Launcher: Hide icon labels option
 * Launcher: Add fullscreen option
+* New wallpaper title and credit field - thanks cyanogen
 
 ------------
 v1.1

@@ -10,7 +10,7 @@ Developers:
 CHANGELOG
 ------------
 v1.3
-
+* Add option for complete silent state to volume rocker controls
 
 ------------
 v1.2

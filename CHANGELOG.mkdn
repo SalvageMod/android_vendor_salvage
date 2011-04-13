@@ -9,6 +9,10 @@ Developers:
 
 CHANGELOG
 ------------
+v1.3
+
+
+------------
 v1.2
 
 * Fixed boot animation. Now plays until system loads.

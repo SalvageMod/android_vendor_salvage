@@ -9,8 +9,10 @@ Developers:
 
 CHANGELOG
 ------------
-v1.3
+v1.2.1
+
 * Add option for complete silent state to volume rocker controls
+* Fix general application settings not working (now have their own preference screen, ex. Unknown sources)
 
 ------------
 v1.2

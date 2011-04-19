@@ -13,6 +13,7 @@ v1.3
 
 * Added lockscreen music controls
 * Changed default kernel to Titamat 3.3.7
+* Now supports Flac
 
 ------------
 v1.2.1

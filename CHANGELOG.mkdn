@@ -12,6 +12,11 @@ CHANGELOG
 v1.3
 
 * Added lockscreen music controls
+* Imported lockscreen settings from CMParts
+  -Lense
+  -Rotary
+  -Revamped Rotary
+  -Plus extra settings
 * Changed default kernel to Titamat 3.3.7
 * Now supports Flac
 

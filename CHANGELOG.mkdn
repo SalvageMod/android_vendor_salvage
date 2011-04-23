@@ -11,6 +11,8 @@ CHANGELOG
 ------------
 v1.3
 
+* Toggle wallpaper scrolling
+* Toggle Launcher rotation
 * Added lockscreen music controls
 * Imported lockscreen settings from CMParts
   -Lense

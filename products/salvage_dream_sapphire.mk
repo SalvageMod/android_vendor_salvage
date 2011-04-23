@@ -19,6 +19,9 @@ PRODUCT_BUILD_PROP_OVERRIDES += BUILD_ID=FRG83 BUILD_DISPLAY_ID=GRI40
 BUILD_FINGERPRINT=tmobile/opal/sapphire/sapphire:2.2.1/FRG83/60505:user/release-keys 
 PRIVATE_BUILD_DESC="opal-user 2.2.1 FRG83 60505 release-keys"
 
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.modversion=SalvageMod-1.0-beta-$(shell date +%m%d%Y)-saph
+
 # Build kernel
 #PRODUCT_SPECIFIC_DEFINES += TARGET_PREBUILT_KERNEL=
 #PRODUCT_SPECIFIC_DEFINES += TARGET_KERNEL_DIR=kernel-msm

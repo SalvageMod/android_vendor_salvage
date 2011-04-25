@@ -22,6 +22,7 @@ v1.3
   -Plus extra settings
 * Changed default kernel to Titamat 3.3.7
 * Now supports Flac
+* Added chat bubble option to Mms
 
 ------------
 v1.2.1

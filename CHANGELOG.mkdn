@@ -11,6 +11,7 @@ CHANGELOG
 ------------
 v1.3
 
+* Change brightness by sliding across the status bar
 * Toggle wallpaper scrolling
 * Toggle Launcher rotation
 * Added lockscreen music controls

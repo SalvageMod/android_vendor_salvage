@@ -5,12 +5,17 @@ Visit http://www.salvage-mod.com
 
 Developers:
 ------------
-* Supersonic (EVO): Lithid, barnacles10, echoside, radadev
+* Supersonic (EVO): Lithid, barnacles10, echo, radadev
+* Incredible: Barnacles10, echo, Lithid
 
 CHANGELOG
 ------------
 v1.3
 
+* Started building for Incredible
+* Changed WiMAX status bar icons
+* Change WiMAX Settings --joeykrim
+* Add CPU and Mem info to About phone
 * Change brightness by sliding across the status bar
 * Toggle wallpaper scrolling
 * Toggle Launcher rotation

@@ -2,7 +2,7 @@
 $(call inherit-product, vendor/salvage/products/common.mk)
 
 # Bring in all audio files
-include frameworks/base/data/sounds/AllAudio.mk
+include frameworks/base/data/sounds/AudioPackage2.mk
 
 # Default ringtone
 PRODUCT_PROPERTY_OVERRIDES += \

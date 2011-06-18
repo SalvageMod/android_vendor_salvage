@@ -3,6 +3,8 @@ $(call inherit-product, device/htc/supersonic/supersonic.mk)
 
 # Inherit some common Salvage-Mod stuff.
 $(call inherit-product, vendor/salvage/products/common_full.mk)
+# Inherit WiMAX stuff
+$(call inherit-product, vendor/salvage/products/wimax.mk)
 
 #
 # Setup device specific product configuration.

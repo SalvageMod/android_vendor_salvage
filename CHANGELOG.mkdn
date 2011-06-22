@@ -5,8 +5,8 @@ Visit http://www.salvage-mod.com
 
 Developers:
 ------------
-* Supersonic (EVO): Lithid, barnacles10, echo, radadev
-* Incredible: Barnacles10, echo, Lithid
+* Supersonic (EVO): Lithid, barnacles10, echoside
+* Incredible: Barnacles10, echoside
 
 CHANGELOG
 ------------

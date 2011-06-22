@@ -12,10 +12,10 @@ CHANGELOG
 ------------
 v1.3
 
+* Rebase - Android 2.3.4 
 * Started building for Incredible
 * Changed WiMAX status bar icons
 * Change WiMAX Settings --joeykrim
-* Add CPU and Mem info to About phone
 * Change brightness by sliding across the status bar
 * Toggle wallpaper scrolling
 * Toggle Launcher rotation

@@ -21,13 +21,22 @@ v1.3
 * Toggle Launcher rotation
 * Added lockscreen music controls
 * Imported lockscreen settings from CMParts
-  -Lense
-  -Rotary
-  -Revamped Rotary
-  -Plus extra settings
+** Lense
+** Rotary
+** Revamped Rotary
+** Plus extra settings
 * Changed default kernel to Titamat 3.3.8
 * Now supports Flac
 * Added chat bubble option to Mms
+* Optimization for SalvageMod Wallpapers
+* Optimization for Settings and SalvageParts
+* Added option to change how many screens on Launcher2
+** 3
+** 5
+** 7
+* Custom updater-script header
+* Revert back to 3D Gallery
+
 
 ------------
 v1.2.1

@@ -13,7 +13,6 @@ CHANGELOG
 v1.3
 
 * Rebase - Android 2.3.4 
-* Started building for Incredible
 * Changed WiMAX status bar icons
 * Change WiMAX Settings --joeykrim
 * Change brightness by sliding across the status bar

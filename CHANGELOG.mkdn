@@ -10,6 +10,11 @@ Developers:
 
 CHANGELOG
 ------------
+v1.4
+
+* Add option to disable stock voicemail notifications
+
+------------
 v1.3
 
 * Rebase - Android 2.3.4 

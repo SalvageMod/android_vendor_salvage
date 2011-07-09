@@ -15,9 +15,10 @@ v1.4
 * Advanced camera options. (Vol up/down snap, Vol up/down Zoom)
 * Fixed reboot dialog bug
 * Using latest gps libs
-* Added init.d support, for running scripts on boot.
+* Added init.d support, for running scripts on boot
 * Added Devtools to SalvageParts
 * Added SpareParts to SalvageParts
+* Fixed extra updater-script commands being seen
 
 ------------
 v1.3

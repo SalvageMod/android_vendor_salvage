@@ -35,8 +35,12 @@ PRODUCT_COPY_FILES += \
 # Common Salvage-Mod overlay
 PRODUCT_PACKAGE_OVERLAYS += vendor/salvage/overlay/common
 
-#PRODUCT_COPY_FILES += \
-#    vendor/salvage/prebuilt/common/bin/fix_permissions:system/bin/fix_permissions \
+PRODUCT_COPY_FILES += \
+    vendor/salvage/prebuilt/common/etc/init.d/00banner:system/etc/init.d/00banner \
+    vendor/salvage/prebuilt/common/bin/fix_permissions:system/bin/fix_permissions \
+    vendor/salvage/prebuilt/common/bin/sysinit:system/bin/sysinit \
+    vendor/salvage/prebuilt/common/xbin/htop:system/xbin/htop \
+    vendor/salvage/prebuilt/common/xbin/irssi:system/xbin/irssi
 
 # Enable SIP+VoIP on all targets
 PRODUCT_COPY_FILES += \

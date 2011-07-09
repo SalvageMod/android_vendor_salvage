@@ -16,6 +16,8 @@ v1.4
 * Fixed reboot dialog bug
 * Using latest gps libs
 * Added init.d support, for running scripts on boot.
+* Added Devtools to SalvageParts
+* Added SpareParts to SalvageParts
 
 ------------
 v1.3

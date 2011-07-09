@@ -14,6 +14,8 @@ v1.4
 * Add option to disable stock voicemail notifications
 * Advanced camera options. (Vol up/down snap, Vol up/down Zoom)
 * Fixed reboot dialog bug
+* Using latest gps libs
+* Added init.d support, for running scripts on boot.
 
 ------------
 v1.3

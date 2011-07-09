@@ -12,6 +12,7 @@ CHANGELOG
 v1.4
 
 * Add option to disable stock voicemail notifications
+* Advanced camera options. (Vol up/down snap, Vol up/down Zoom)
 
 ------------
 v1.3

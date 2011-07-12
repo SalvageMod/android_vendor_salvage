@@ -19,7 +19,7 @@ v1.4
 * Added Devtools to SalvageParts
 * Added SpareParts to SalvageParts
 * Fixed extra updater-script commands being seen
-
+* Fixed live wallpaper issue
 ------------
 v1.3
 

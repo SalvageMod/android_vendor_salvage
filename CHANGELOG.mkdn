@@ -20,6 +20,8 @@ v1.4
 * Added SpareParts to SalvageParts
 * Fixed extra updater-script commands being seen
 * Fixed live wallpaper issue
+* Added screenshot app
+* Added screeny script to /system/bin for screenshots via adb
 ------------
 v1.3
 

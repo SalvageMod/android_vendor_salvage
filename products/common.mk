@@ -22,7 +22,9 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Salvage-Mod specific product packages
 PRODUCT_PACKAGES += \
-    SalvageParts \
+    Screenshot \
+    screenshot \
+    SalvageParts
 
 # Extra tools in Salvage-Mod
 #PRODUCT_PACKAGES += \
@@ -39,6 +41,7 @@ PRODUCT_COPY_FILES += \
     vendor/salvage/prebuilt/common/etc/init.d/00banner:system/etc/init.d/00banner \
     vendor/salvage/prebuilt/common/bin/fix_permissions:system/bin/fix_permissions \
     vendor/salvage/prebuilt/common/bin/sysinit:system/bin/sysinit \
+    vendor/salvage/prebuilt/common/bin/screeny:system/bin/screeny \
     vendor/salvage/prebuilt/common/xbin/htop:system/xbin/htop \
     vendor/salvage/prebuilt/common/xbin/irssi:system/xbin/irssi
 

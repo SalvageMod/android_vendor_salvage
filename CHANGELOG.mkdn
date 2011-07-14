@@ -22,6 +22,8 @@ v1.4
 * Fixed live wallpaper issue
 * Added screenshot app
 * Added screeny script to /system/bin for screenshots via adb
+* Toggle transparent notification drop down.
+
 ------------
 v1.3
 

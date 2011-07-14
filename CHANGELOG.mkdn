@@ -23,6 +23,7 @@ v1.4
 * Added screenshot app
 * Added screeny script to /system/bin for screenshots via adb
 * Toggle transparent notification drop down.
+* Added new screenshot widget for notification dropdown
 
 ------------
 v1.3

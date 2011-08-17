@@ -23,7 +23,7 @@ PRODUCT_PACKAGES += Torch
 # Set ro.modversion
 #
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.modversion=SalvageMod-1.4-nightly-$(shell date +%m%d%Y)
+    ro.modversion=SalvageMod-1.4
 
 #
 # Copy passion specific prebuilt files

@@ -40,7 +40,6 @@ v1.3
 ** Rotary
 ** Revamped Rotary
 ** Plus extra settings
-* Changed default kernel to Titamat 3.3.8
 * Now supports Flac
 * Added chat bubble option to Mms
 * Optimization for SalvageMod Wallpapers
